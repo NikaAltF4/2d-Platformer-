@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PuppetAnimation
+  m_Controller: {fileID: 9100000, guid: 555504c37398e734f9796873450a3331, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 022ccbf4313f9af48aebf07dbe15cbbc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48240a85f8de7834faf454691b0cc044, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 011ed0b8d89b3324d9caee154f3eb77f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 123ab5b426ea0d448bb26f759517878c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 989961bd94a88db4c881cddde961e2d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 89519539ecc027f459a29ad8e78f0675, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a8c71299048e06944bb5d841881f9592, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 29d51e5af91995b4dbd5220d593c7cbd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b30301358fbccee4e8424efa65841d43, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 49bd8c72ec3274c44acdd21108b2455c, type: 2}

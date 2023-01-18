@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DeathZone
+  - PlayerSpawn
+  - SoundManager
+  - PlayerSpawn 2
+  - Player 2
+  - knot
+  - knot 1
+  - knot 2
+  - knot 3
+  - knot 4
+  - knot 5
+  - knot 6
+  - Seelenpuupe
+  - Seelenpuppe
+  - Riddle 1
   layers:
   - Default
   - TransparentFX
@@ -11,9 +26,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Ground
+  - Background
+  - Foreground
   - 
   - 
   - 
@@ -38,6 +53,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 1813732959
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
